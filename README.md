@@ -49,8 +49,7 @@ I bridge the gap between complex database systems and strategic business decisio
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio Site:** [Your Portfolio Link / Linktree]
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/adams-m-50a53244/)
+* **Email:** [your.email@example.com](adamsmanya@gmail.com)
 
 *“If you torture the data long enough, it will confess to anything. I prefer to let it speak clearly from the start.”*
